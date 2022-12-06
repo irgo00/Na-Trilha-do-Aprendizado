@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(170, 217, 247);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    background-color: rgb(89, 197, 197);
+    color: blue;
+    text-align: center;
+}
+h2{
+    color: rgb(37, 94, 91)
+}
+h3{
+    color: rgb(14, 192, 183)
+}

@@ -1,0 +1,52 @@
+div{
+    background-color: purple;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:white;
+}
+.b1{
+background-color: rgb(149, 104, 189);
+color:rgb(133, 58, 4);
+margin: 20px;
+padding: 10px;
+border: 3px solid rgb(41, 0, 41);
+width: 60px;
+height: 20px;
+}
+.alfredo{
+background-color: rgb(182, 85, 85);
+color:darkblue;
+margin: 20px;
+padding: 10px;
+border: 3px solid rgb(61, 1, 1);
+width: 60px;
+height: 20px;
+}
+.agrupamento{
+background-color: rgb(12, 95, 67);
+color:darkgrey;
+margin: 20px;
+padding: 10px;
+border: 3px solid rgb(3, 63, 63);
+}
+#unico{
+background-color:rgb(63, 80, 34);
+color:beige;
+margin: 20px;
+padding: 10px;
+border: 3px solid rgb(32, 41, 17)
+}
+.personalizado{
+background-color: darkslategrey;
+color:rgb(206, 205, 205);
+margin: 20px;
+padding: 10px;
+border: 3px solid rgb(3, 37, 37)
+}
+.personalizado:hover{
+border: 5px solid rgb(49, 170, 170);
+background-color: rgb(75, 119, 119);
+}
+.pseudo::selection{
+color:rgb(25, 27, 26);
+background-color:lightgreen;
+}
